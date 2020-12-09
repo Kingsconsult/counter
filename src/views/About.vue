@@ -1,5 +1,7 @@
 <template>
   <div>
+        <h1>This is the About page</h1>
+
     <Counter
       :year="2021"
       :month="0"
@@ -9,6 +11,7 @@
       :second="0"
       :millisecond="0"
     />
+    <p>By Kingsconsult</p>
   </div>
 </template>
 

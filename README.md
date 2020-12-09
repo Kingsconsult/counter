@@ -1,5 +1,10 @@
 # counter
 
+## This is a count down that displays the days, hours, minutes and seconds
+## This is developed with VueJs
+
+### Credit to [Program With Erik](https://www.youtube.com/watch?v=Q_fLx2KcoYA&t=1303s)
+
 ## Project setup
 ```
 yarn install
@@ -14,11 +19,3 @@ yarn serve
 ```
 yarn build
 ```
-
-### Lints and fixes files
-```
-yarn lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).

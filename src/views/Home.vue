@@ -1,5 +1,6 @@
 <template>
   <div class="home">
+    <h1>This is the Home page</h1>
     <!-- <img alt="Vue logo" src="../assets/logo.png"> -->
     <HelloWorld msg="Welcome to Your Vue.js App"/>
     <Counter
@@ -10,6 +11,8 @@
       :minute="0"
       :second="0"
       :millisecond="0" />
+          <p>By Kingsconsult</p>
+
   </div>
 </template>
 
